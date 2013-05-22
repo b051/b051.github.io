@@ -53,7 +53,8 @@ We should **always** using Tabs for indention on Objective-C code, you should se
     // Do stuff
 }
 
-- (NSString *)stringByReplacingOccurrencesOfString:(NSString *)target withString:(NSString *)replacement
+- (NSString *)stringByReplacingOccurrencesOfString:(NSString *)target
+                                        withString:(NSString *)replacement
 {
     return nil;
 }
@@ -235,7 +236,7 @@ For UIViewController, UIView and CALayer subclasses, component properties can be
 
 @interface MyShoeTier : NSObject
 {
-	...
+    ...
 }
 
 @property (noatomic, strong, readonly) MyShoe *shoe;
