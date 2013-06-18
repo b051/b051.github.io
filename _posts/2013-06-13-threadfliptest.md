@@ -11,7 +11,7 @@ title:  "Threadflip openURL"
 
 [Cart](threadflip://cart)
 
-[Designer](threadflip://designer/adriana-soto)
+[Designer](threadflip://designer/515)
 
 [Category](threadflip://category/accessories)
 
